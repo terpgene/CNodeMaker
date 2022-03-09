@@ -1,0 +1,9 @@
+---
+# Contemplating whether script could be run from windows or from a virtualbox
+- hosts: all
+  gather_facts: false
+  become: true
+  become_method: sudo
+
+  
+...
