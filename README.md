@@ -1,6 +1,11 @@
 # Cardano Stake Node Project
 
 ## Technologies
+* Ansible
+* AWS
+* GCP
+* AZURE
+* Linux
 
 ## Setup
 
